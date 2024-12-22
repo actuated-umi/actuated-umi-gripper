@@ -9,15 +9,28 @@
   </a>
 
   <h3 align="center">Actuated UMI Gripper</h3>
-  <h5 align="center">Author1*, Author2*, Author3, Author4, Autor5<br><em>*Equal contribution</em></h5>
+  <h5 align="center">Erik Helmut*, Niklas Funk*, Tim Schneider, Jan Peters<br><em>*Equal contribution</em></h5>
   
 
   <p align="center">
-    We present an open-source, actuated robotic gripper that is heavily inspired by the <a href="https://umi-gripper.github.io">UMI gripper</a>. Designed to be cost-effective and modular, this gripper uses 3D-printed components to ensure accessibility and reproducibility. With a Dynamixel motor for actuation, you can assemble the gripper yourself using the included design files and guidelines. This repository contains the mechanical design files and printable components, enabling you to build and customize the gripper to suit your needs. <br />
+    This repository provides an actuated, open-source version of the popular <a href="https://umi-gripper.github.io">UMI gripper</a>. Designed to be cost-effective and modular, this gripper uses 3D-printed components to ensure accessibility and reproducibility. With a Dynamixel motor for actuation, you can assemble the gripper yourself using the included design files and guidelines. This repository contains the mechanical design files and printable components, enabling you to build and customize the gripper to suit your needs. <br />
     <a href="https://actuated-umi.github.io"><strong>For more information about actuated-UMI, visit the project page »</strong></a> <br />
   </p>
 </div>
 
+
+<!-- Citation -->
+## Citation
+If you use this project in your research, please cite it.
+
+```
+@inproceedings{helmut2024actuatedumi,
+  author = {Helmut, Erik and Funk, Niklas and Schneider, Tim and Peters, Jan},
+  title = {Actuated Version of the Universal Manipulation Interface Gripper},
+  year = {2024},
+  url  = {https://actuated-umi.github.io/}
+}
+```
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -39,13 +52,7 @@
       <a href="#acknowledgements">Acknowledgements</a>
     </li>
     <li>
-      <a href="#license">License</a>
-    </li>
-    <li>
       <a href="#questions-and-contributing">Questions and Contributing</a>
-    </li>
-    <li>
-      <a href="#citation">Citation</a>
     </li>
   </ol>
 </details>
@@ -53,12 +60,12 @@
 
 <!-- Bill of Materials -->
 ## Bill of Materials (BoM)
-tbd
+Coming soon.
 
 
 <!-- 3D Printing Details -->
 ## 3D Printing Details
-tbd
+Coming soon.
 
 
 <!-- Assembly Guide -->
@@ -85,20 +92,9 @@ This work heavily builds upon the following prior efforts. It would not have bee
 
 
 <!-- License -->
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 <!-- Questions and Contributing -->
 ## Questions and Contributing
 If you have any questions or need help with building the gripper, please create an <a href="https://github.com/actuated-umi/actuated-umi-gripper/issues/new/">issue</a>.
 
 We also welcome contributions to this repository, including new 3D models or other improvements. If you would like to contribute, please <a href="https://github.com/actuated-umi/actuated-umi-gripper/fork">fork</a> this repository and submit a <a href="https://github.com/actuated-umi/actuated-umi-gripper/compare">pull request</a> with your changes, or reach out to erik.helmut1 [at] gmail [dot] de.
-
-
-<!-- Citation -->
-## Citation
-If you use this project in your research, please cite it.
-
-```
-```
