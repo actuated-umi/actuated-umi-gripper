@@ -100,7 +100,7 @@ Note: If you want to print the fingers with TPU, please follow the setting from 
 We provide a comprehensive, step-by-step assembly guide to help you build the gripper with ease. The video tutorial walks you through each step, ensuring a clear and straightforward assembly experience. You can find the video tutorial below:
 
 <a href="https://www.youtube.com/watch?v=XodgLZ3qirM">
-    <img src="https://img.youtube.com/vi/XodgLZ3qirM/0.jpg" alt="Assembly Guide ACTUATED-UMI" style="object-fit: cover; width: 480px; height: 270px">
+    <img src="assets/actuatued-UMI-AssemblyGuide.jpg" alt="Assembly Guide ACTUATED-UMI" style="object-fit: cover; width: 480px">
   </a>
 
 
