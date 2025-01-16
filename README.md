@@ -13,7 +13,11 @@
   
 
   <p align="center">
-    This repository provides an actuated, open-source version of the popular <a href="https://umi-gripper.github.io">UMI gripper</a>. Designed to be cost-effective and modular, this gripper uses 3D-printed components to ensure accessibility and reproducibility. With a Dynamixel motor for actuation, you can assemble the gripper yourself using the included design files and guidelines. This repository contains the mechanical design files and printable components, enabling you to build and customize the gripper to suit your needs. <br />
+    This repository provides an actuated, open-source version of the popular <a href="https://umi-gripper.github.io">UMI gripper</a>. 
+    Designed to be cost-effective and modular, this gripper uses 3D-printed components to ensure accessibility and reproducibility. 
+    With a Dynamixel motor for actuation, you can assemble the gripper yourself using the included design files and guidelines. 
+    This repository contains the mechanical design files and printable components, enabling you to build and customize the gripper to suit your needs.
+    This project would not have been possible without the earlier efforts of Chi et al. (2024) and the work of Clayton Haight. For more information about the prior works, please see the <a href="#acknowledgements">Acknowledgements</a> Section. <br />
     <a href="https://actuated-umi.github.io"><strong>For more information about actuated-UMI, visit the project page »</strong></a> <br />
   </p>
 </div>
